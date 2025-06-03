@@ -3,3 +3,4 @@ def rev(s):
 text = "hello"
 revtext = rev(text)
 print(revtext)
+print(text)
